@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John",
+      "email": "john@example.com",
+      "password": "encryptedPassword"
+    },
+    {
+      "id": "0d27",
+      "name": "Prachi",
+      "email": "vermaprachi86@gmail.com",
+      "encryptedPassword": "U2FsdGVkX1+SVyrI6Uoka3DBjaetB0v9G/viNcOy0XE="
+    },
+    {
+      "id": "ad09",
+      "name": "Prachi",
+      "email": "vermaprachi86@gmail.com",
+      "decryptedPassword": "prachi"
+    },
+    {
+      "id": "22f8",
+      "name": "Prachi",
+      "email": "vermaprachi86@gmail.com",
+      "encryptedPassword": "U2FsdGVkX1/hyvvFoMy8YJjNLsY7trGVy+r7xnnC3bM="
+    },
+    {
+      "id": "a87d",
+      "name": "Prachi",
+      "email": "vermaprachi86@gmail.com",
+      "encryptedPassword": "U2FsdGVkX18IvtSUgXf1UUyzsrYGcgMaLrQmEmmQRoQ="
+    },
+    {
+      "id": "20d7",
+      "name": "Prachi",
+      "email": "vermaprachi86@gmail.com",
+      "decryptedPassword": "prachi"
+    },
+    {
+      "id": "b8f7",
+      "name": "Prachi",
+      "email": "vermaprachi86@gmail.com",
+      "encryptedPassword": "U2FsdGVkX19O00emtWLlJF3YZm9ddLM5y7Ug6IWP7Ks="
+    },
+    {
+      "id": "7dbf",
+      "name": "prachi",
+      "email": "prachi@gmail.com",
+      "encryptedPassword": "U2FsdGVkX18dVvXXdQ0dpA8Og7h4UciXpHoCBZO1020="
+    },
+    {
+      "id": "c1a7",
+      "name": "prachi",
+      "email": "prachi@gmail.com",
+      "decryptedPassword": "prachi"
+    }
+  ]
+}
